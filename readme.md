@@ -8,4 +8,4 @@ In `run2.py` I have implemented visual attention. In `run3.py` I am currently in
 
 Here is my design for the visual attention part.
 
-![alt text](https://raw.githubusercontent.com/Nirvan101/Improved-re-identification/image.jpg)
+![alt text](https://raw.githubusercontent.com/Nirvan101/Improved-re-identification/master/image.jpg)
